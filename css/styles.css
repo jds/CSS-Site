@@ -26,14 +26,14 @@ h3 {
     color: #11999E
 }
 
-hr{
+hr {
     border: dotted #EAF6F6 6px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto;
 }
 
-p{
+p {
     line-height: 2;
 }
 
@@ -43,11 +43,11 @@ p{
     padding-top: 100px;
 }
 
-.middle-container{
+.middle-container {
     margin: 100px 0;
 }
 
-.bottom-container{
+.bottom-container {
     background-color: #66BFBF;
     padding: 50px 0 20px;
 }
@@ -56,13 +56,13 @@ p{
     text-decoration: underline;
 }
 
-.intro{
+.intro {
     width: 30%;
     margin: auto;
-    
+
 }
 
-.contact-message{
+.contact-message {
     width: 40%;
     margin: 40px auto 60px;
 }
@@ -79,25 +79,25 @@ p{
     bottom: 350px;
 }
 
-.skill-row{
+.skill-row {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
 }
 
-.skills{
+.skills {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
 }
 
-.code-img{
+.code-img {
     width: 150px;
     float: left;
     margin-right: 30px
 }
 
-.aws-img{
+.aws-img {
     widows: 150px;
     float: right;
     margin-right: 30px;
@@ -107,48 +107,50 @@ p{
     position: relative;
     text-align: center;
     color: white;
-  }
-  .centered {
+}
+
+.centered {
     font-size: 55px;
-    color:black;
+    color: black;
     position: absolute;
     top: 29%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Dancing Script', cursive;
-  }
+}
 
-  .myButton {
-	box-shadow:inset 0px 1px 0px 0px #bee2f9;
-	background:linear-gradient(to bottom, #63b8ee 5%, #468ccf 100%);
-	background-color:#63b8ee;
-	border-radius:8px;
-	border:1px solid #3866a3;
-	display:inline-block;
-	cursor:pointer;
-	color:#14396a;
+.myButton {
+    box-shadow: inset 0px 1px 0px 0px #bee2f9;
+    background: linear-gradient(to bottom, #63b8ee 5%, #468ccf 100%);
+    background-color: #63b8ee;
+    border-radius: 8px;
+    border: 1px solid #3866a3;
+    display: inline-block;
+    cursor: pointer;
+    color: #14396a;
     font-family: "Helvectica Neue", 'Montserrat', 'Fira Sans', Helvetica, Arial, sans-serif;
-	font-size:20px;
-	font-weight:bold;
-	padding:5px 7px;
-	text-decoration:none;
-    text-shadow:0px 1px 0px #7cacde;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 7px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #7cacde;
 }
 
-  .myButton:hover {
-	background:linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
-	background-color:#468ccf;
+.myButton:hover {
+    background: linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+    background-color: #468ccf;
 }
+
 .myButton:active {
-	position:relative;
-	top:1px;
+    position: relative;
+    top: 1px;
 }
 
-.contact-me{
+.contact-me {
     padding: 20px;
 }
 
-.footer-link{
+.footer-link {
     color: #EAF6F6;
     font-size: 20px;
     margin: 2em;
